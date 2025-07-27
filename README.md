@@ -81,6 +81,19 @@ binance-futures-bot/
 ├── README.md
 └── report.pdf
 
+🔧 Advanced Order Support (Key Differentiator)
+This project goes beyond basic trading functionality by supporting advanced order types that are essential for strategic trading and real-world deployment:
+
+Stop-Limit Orders: Allow for precise control, triggering trades only when prices reach predefined thresholds.
+
+Simulated OCO (One-Cancels-the-Other): Emulates take-profit and stop-loss behavior for Binance Futures, which does not support native OCO.
+
+TWAP (Time-Weighted Average Price): Automatically splits larger orders over time to reduce slippage and improve average fill price.
+
+Grid Trading Strategy: Automatically places multiple limit orders across a defined price range to capture volatility.
+
+These advanced capabilities differentiate this bot from standard market-order bots, making it more versatile and realistic for automated trading on Binance Futures Testnet.
+
 
 📝 License
 This project is for educational/demonstration use only.
