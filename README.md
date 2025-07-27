@@ -86,3 +86,5 @@ binance-futures-bot/
 This project is for educational/demonstration use only.
 Use on real funds is not recommended without further security and risk handling.
 
+Reach out to amitm4148@gmail.com  for any questions
+
