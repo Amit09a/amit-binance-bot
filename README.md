@@ -35,7 +35,7 @@ venv\Scripts\activate
 3. Install requirements
 pip install -r requirements.txt
 
-4. Setup API credentials
+4. Set up API credentials
 
 Create a .env file in the root directory:
 
